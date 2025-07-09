@@ -27,4 +27,7 @@ I built this using **Bicep** (an infrastructure-as-code language) to automate th
 
 ![Azure Hub-and-Spoke Architecture](architecture.png)
 
+## 📌 Azure Resource Group
+
+![Resource Group Overview](Screenshots/Resource-Group/Screenshot%202025-07-09%20213157.png)
 
